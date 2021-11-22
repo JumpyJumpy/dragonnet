@@ -1,5 +1,4 @@
 import numpy as np
-import numpy as np
 from scipy.special import logit
 
 import sklearn.linear_model as lm
